@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "resumenext-job-match",
+  "displayName": "Job Match & Resume Keyword Scanner - ResumeNext",
+  "version": "1.0.0",
+  "description": "Compare a resume with a job description: matched and missing keywords, coverage, and a job-tailored ATS score.",
+  "author": {
+    "name": "ResumeNext",
+    "url": "https://resumenext.io"
+  },
+  "homepage": "https://resumenext.io/mcp#job-match",
+  "repository": "https://github.com/ClipWave-io/resumenext-plugins",
+  "license": "MIT",
+  "keywords": [
+    "job-match",
+    "resume",
+    "keywords",
+    "keyword-scanner",
+    "job-description",
+    "tailor-resume",
+    "ats",
+    "resume-match",
+    "job-search",
+    "career",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://resumenext.io/privacy",
+  "termsOfServiceUrl": "https://resumenext.io/terms",
+  "supportUrl": "https://resumenext.io/contact",
+  "documentationUrl": "https://resumenext.io/mcp#job-match"
+}

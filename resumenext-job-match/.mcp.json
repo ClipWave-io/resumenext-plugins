@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "resumenext-job-match": {
+      "type": "http",
+      "url": "https://resumenext.io/api/claude/job-match/mcp"
+    }
+  }
+}

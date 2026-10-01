@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "resumenext-linkedin-resume",
+  "displayName": "LinkedIn Profile Review & Resume Converter - ResumeNext",
+  "version": "1.0.0",
+  "description": "Review the text of a LinkedIn profile section by section and turn it into a resume that opens in the ResumeNext editor.",
+  "author": {
+    "name": "ResumeNext",
+    "url": "https://resumenext.io"
+  },
+  "homepage": "https://resumenext.io/mcp#linkedin",
+  "repository": "https://github.com/ClipWave-io/resumenext-plugins",
+  "license": "MIT",
+  "keywords": [
+    "linkedin",
+    "linkedin-profile",
+    "profile-review",
+    "linkedin-to-resume",
+    "resume",
+    "resume-converter",
+    "personal-branding",
+    "job-search",
+    "career",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://resumenext.io/privacy",
+  "termsOfServiceUrl": "https://resumenext.io/terms",
+  "supportUrl": "https://resumenext.io/contact",
+  "documentationUrl": "https://resumenext.io/mcp#linkedin"
+}

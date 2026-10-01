@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "resumenext-cover-letter",
+  "displayName": "Cover Letter Checker & Builder - ResumeNext",
+  "version": "1.0.0",
+  "description": "Check a cover letter against a fixed checklist, read example letters by role, and open the final letter in the ResumeNext cover letter editor.",
+  "author": {
+    "name": "ResumeNext",
+    "url": "https://resumenext.io"
+  },
+  "homepage": "https://resumenext.io/mcp#cover-letter",
+  "repository": "https://github.com/ClipWave-io/resumenext-plugins",
+  "license": "MIT",
+  "keywords": [
+    "cover-letter",
+    "cover-letter-builder",
+    "cover-letter-checker",
+    "cover-letter-examples",
+    "job-application",
+    "resume",
+    "job-search",
+    "career",
+    "writing",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://resumenext.io/privacy",
+  "termsOfServiceUrl": "https://resumenext.io/terms",
+  "supportUrl": "https://resumenext.io/contact",
+  "documentationUrl": "https://resumenext.io/mcp#cover-letter"
+}

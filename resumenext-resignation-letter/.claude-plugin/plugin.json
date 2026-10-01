@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "resumenext-resignation-letter",
+  "displayName": "Resignation Letter Generator - ResumeNext",
+  "version": "1.0.0",
+  "description": "Write a resignation letter in a standard, formal or grateful style and open it in ResumeNext to edit and save as PDF, DOCX or TXT.",
+  "author": {
+    "name": "ResumeNext",
+    "url": "https://resumenext.io"
+  },
+  "homepage": "https://resumenext.io/mcp#resignation-letter",
+  "repository": "https://github.com/ClipWave-io/resumenext-plugins",
+  "license": "MIT",
+  "keywords": [
+    "resignation-letter",
+    "resignation",
+    "two-weeks-notice",
+    "notice-letter",
+    "letter-generator",
+    "letter-template",
+    "career",
+    "hr",
+    "writing",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://resumenext.io/privacy",
+  "termsOfServiceUrl": "https://resumenext.io/terms",
+  "supportUrl": "https://resumenext.io/contact",
+  "documentationUrl": "https://resumenext.io/mcp#resignation-letter"
+}

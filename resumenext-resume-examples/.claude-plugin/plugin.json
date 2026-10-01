@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "resumenext-resume-examples",
+  "displayName": "Resume Examples & Templates - ResumeNext",
+  "version": "1.0.0",
+  "description": "Browse resume examples by role and resume templates, each with a link that opens it in the ResumeNext editor as a starting point.",
+  "author": {
+    "name": "ResumeNext",
+    "url": "https://resumenext.io"
+  },
+  "homepage": "https://resumenext.io/mcp#resume-examples",
+  "repository": "https://github.com/ClipWave-io/resumenext-plugins",
+  "license": "MIT",
+  "keywords": [
+    "resume-examples",
+    "resume-templates",
+    "resume-samples",
+    "resume",
+    "cv-examples",
+    "cv-templates",
+    "ats-templates",
+    "job-search",
+    "career",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://resumenext.io/privacy",
+  "termsOfServiceUrl": "https://resumenext.io/terms",
+  "supportUrl": "https://resumenext.io/contact",
+  "documentationUrl": "https://resumenext.io/mcp#resume-examples"
+}

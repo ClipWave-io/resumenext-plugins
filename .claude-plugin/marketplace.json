@@ -1,0 +1,136 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "resumenext",
+  "owner": {
+    "name": "ResumeNext",
+    "url": "https://resumenext.io"
+  },
+  "metadata": {
+    "description": "Resume, cover letter and job application tools for Claude, via the ResumeNext MCP servers.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "resumenext-ats-resume-checker",
+      "source": "./resumenext-ats-resume-checker",
+      "description": "Check a resume's ATS score, see what to fix first, and open it in the ResumeNext resume builder with templates and a live score.",
+      "category": "productivity",
+      "keywords": [
+        "resume",
+        "ats",
+        "ats-checker",
+        "resume-checker",
+        "resume-builder",
+        "resume-score",
+        "cv",
+        "cv-checker",
+        "job-search",
+        "career",
+        "mcp"
+      ],
+      "homepage": "https://resumenext.io/mcp#resume",
+      "license": "MIT"
+    },
+    {
+      "name": "resumenext-job-match",
+      "source": "./resumenext-job-match",
+      "description": "Compare a resume with a job description: matched and missing keywords, coverage, and a job-tailored ATS score.",
+      "category": "productivity",
+      "keywords": [
+        "job-match",
+        "resume",
+        "keywords",
+        "keyword-scanner",
+        "job-description",
+        "tailor-resume",
+        "ats",
+        "resume-match",
+        "job-search",
+        "career",
+        "mcp"
+      ],
+      "homepage": "https://resumenext.io/mcp#job-match",
+      "license": "MIT"
+    },
+    {
+      "name": "resumenext-cover-letter",
+      "source": "./resumenext-cover-letter",
+      "description": "Check a cover letter against a fixed checklist, read example letters by role, and open the final letter in the ResumeNext cover letter editor.",
+      "category": "productivity",
+      "keywords": [
+        "cover-letter",
+        "cover-letter-builder",
+        "cover-letter-checker",
+        "cover-letter-examples",
+        "job-application",
+        "resume",
+        "job-search",
+        "career",
+        "writing",
+        "mcp"
+      ],
+      "homepage": "https://resumenext.io/mcp#cover-letter",
+      "license": "MIT"
+    },
+    {
+      "name": "resumenext-resignation-letter",
+      "source": "./resumenext-resignation-letter",
+      "description": "Write a resignation letter in a standard, formal or grateful style and open it in ResumeNext to edit and save as PDF, DOCX or TXT.",
+      "category": "productivity",
+      "keywords": [
+        "resignation-letter",
+        "resignation",
+        "two-weeks-notice",
+        "notice-letter",
+        "letter-generator",
+        "letter-template",
+        "career",
+        "hr",
+        "writing",
+        "mcp"
+      ],
+      "homepage": "https://resumenext.io/mcp#resignation-letter",
+      "license": "MIT"
+    },
+    {
+      "name": "resumenext-linkedin-resume",
+      "source": "./resumenext-linkedin-resume",
+      "description": "Review the text of a LinkedIn profile section by section and turn it into a resume that opens in the ResumeNext editor.",
+      "category": "productivity",
+      "keywords": [
+        "linkedin",
+        "linkedin-profile",
+        "profile-review",
+        "linkedin-to-resume",
+        "resume",
+        "resume-converter",
+        "personal-branding",
+        "job-search",
+        "career",
+        "mcp"
+      ],
+      "homepage": "https://resumenext.io/mcp#linkedin",
+      "license": "MIT"
+    },
+    {
+      "name": "resumenext-resume-examples",
+      "source": "./resumenext-resume-examples",
+      "description": "Browse resume examples by role and resume templates, each with a link that opens it in the ResumeNext editor as a starting point.",
+      "category": "productivity",
+      "keywords": [
+        "resume-examples",
+        "resume-templates",
+        "resume-samples",
+        "resume",
+        "cv-examples",
+        "cv-templates",
+        "ats-templates",
+        "job-search",
+        "career",
+        "mcp"
+      ],
+      "homepage": "https://resumenext.io/mcp#resume-examples",
+      "license": "MIT"
+    }
+  ]
+}

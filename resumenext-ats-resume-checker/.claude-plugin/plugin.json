@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "resumenext-ats-resume-checker",
+  "displayName": "ATS Resume Checker & Resume Builder - ResumeNext",
+  "version": "1.0.0",
+  "description": "Check a resume's ATS score, see what to fix first, and open it in the ResumeNext resume builder with templates and a live score.",
+  "author": {
+    "name": "ResumeNext",
+    "url": "https://resumenext.io"
+  },
+  "homepage": "https://resumenext.io/mcp#resume",
+  "repository": "https://github.com/ClipWave-io/resumenext-plugins",
+  "license": "MIT",
+  "keywords": [
+    "resume",
+    "ats",
+    "ats-checker",
+    "resume-checker",
+    "resume-builder",
+    "resume-score",
+    "cv",
+    "cv-checker",
+    "job-search",
+    "career",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://resumenext.io/privacy",
+  "termsOfServiceUrl": "https://resumenext.io/terms",
+  "supportUrl": "https://resumenext.io/contact",
+  "documentationUrl": "https://resumenext.io/mcp#resume"
+}
