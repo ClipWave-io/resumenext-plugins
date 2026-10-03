@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "resumenext-resume-bullet-points",
+  "displayName": "Resume Bullet Point Checker & Action Verbs - ResumeNext",
+  "version": "1.0.0",
+  "description": "Check resume bullet points line by line for action verbs, numbers, pronouns and phrases to delete, and get action verbs by type of work.",
+  "author": {
+    "name": "ResumeNext",
+    "url": "https://resumenext.io"
+  },
+  "homepage": "https://resumenext.io/mcp#bullet-points",
+  "repository": "https://github.com/ClipWave-io/resumenext-plugins",
+  "license": "MIT",
+  "keywords": [
+    "resume-bullet-points",
+    "bullet-points",
+    "action-verbs",
+    "resume-verbs",
+    "resume-writing",
+    "resume-checker",
+    "resume",
+    "career",
+    "writing",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://resumenext.io/privacy",
+  "termsOfServiceUrl": "https://resumenext.io/terms",
+  "supportUrl": "https://resumenext.io/contact",
+  "documentationUrl": "https://resumenext.io/mcp#bullet-points"
+}

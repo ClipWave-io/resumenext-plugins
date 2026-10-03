@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "resumenext-resume-bullet-points": {
+      "type": "http",
+      "url": "https://resumenext.io/api/claude/bullet-points/mcp"
+    }
+  }
+}

@@ -8,5 +8,7 @@ Resume, cover letter and job application tools for Claude, each a plugin that co
 - [Resignation Letter Generator - ResumeNext](./resumenext-resignation-letter): Write a resignation letter in a standard, formal or grateful style and open it in ResumeNext to edit and save as PDF, DOCX or TXT.
 - [LinkedIn Profile Review & Resume Converter - ResumeNext](./resumenext-linkedin-resume): Review the text of a LinkedIn profile section by section and turn it into a resume that opens in the ResumeNext editor.
 - [Resume Examples & Templates - ResumeNext](./resumenext-resume-examples): Browse resume examples by role and resume templates, each with a link that opens it in the ResumeNext editor as a starting point.
+- [Resume Bullet Point Checker & Action Verbs - ResumeNext](./resumenext-resume-bullet-points): Check resume bullet points line by line for action verbs, numbers, pronouns and phrases to delete, and get action verbs by type of work.
+- [Resume Skills & Keywords by Role - ResumeNext](./resumenext-resume-skills): Get the skills and terms that recur for a role and see where a resume uses them: listed and shown, listed only, shown only, or not mentioned.
 
 Documentation: https://resumenext.io/mcp

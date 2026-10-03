@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "resumenext-resume-skills",
+  "displayName": "Resume Skills & Keywords by Role - ResumeNext",
+  "version": "1.0.0",
+  "description": "Get the skills and terms that recur for a role and see where a resume uses them: listed and shown, listed only, shown only, or not mentioned.",
+  "author": {
+    "name": "ResumeNext",
+    "url": "https://resumenext.io"
+  },
+  "homepage": "https://resumenext.io/mcp#resume-skills",
+  "repository": "https://github.com/ClipWave-io/resumenext-plugins",
+  "license": "MIT",
+  "keywords": [
+    "resume-skills",
+    "skills",
+    "resume-keywords",
+    "skills-by-role",
+    "hard-skills",
+    "resume-writing",
+    "resume",
+    "career",
+    "job-search",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://resumenext.io/privacy",
+  "termsOfServiceUrl": "https://resumenext.io/terms",
+  "supportUrl": "https://resumenext.io/contact",
+  "documentationUrl": "https://resumenext.io/mcp#resume-skills"
+}

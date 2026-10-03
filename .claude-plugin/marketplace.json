@@ -131,6 +131,46 @@
       ],
       "homepage": "https://resumenext.io/mcp#resume-examples",
       "license": "MIT"
+    },
+    {
+      "name": "resumenext-resume-bullet-points",
+      "source": "./resumenext-resume-bullet-points",
+      "description": "Check resume bullet points line by line for action verbs, numbers, pronouns and phrases to delete, and get action verbs by type of work.",
+      "category": "productivity",
+      "keywords": [
+        "resume-bullet-points",
+        "bullet-points",
+        "action-verbs",
+        "resume-verbs",
+        "resume-writing",
+        "resume-checker",
+        "resume",
+        "career",
+        "writing",
+        "mcp"
+      ],
+      "homepage": "https://resumenext.io/mcp#bullet-points",
+      "license": "MIT"
+    },
+    {
+      "name": "resumenext-resume-skills",
+      "source": "./resumenext-resume-skills",
+      "description": "Get the skills and terms that recur for a role and see where a resume uses them: listed and shown, listed only, shown only, or not mentioned.",
+      "category": "productivity",
+      "keywords": [
+        "resume-skills",
+        "skills",
+        "resume-keywords",
+        "skills-by-role",
+        "hard-skills",
+        "resume-writing",
+        "resume",
+        "career",
+        "job-search",
+        "mcp"
+      ],
+      "homepage": "https://resumenext.io/mcp#resume-skills",
+      "license": "MIT"
     }
   ]
 }
